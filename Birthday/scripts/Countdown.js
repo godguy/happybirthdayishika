@@ -18,7 +18,7 @@ let countDown = new Date('May 30, 2020 00:00:00').getTime(),
       //do something later when date is reached
       if (distance < 0) {
         clearInterval(x);
-        location.replace('Birthday/index.html')
+        location.replace('')
         //'ITS MY BIRTHDAY!';
       }
 
