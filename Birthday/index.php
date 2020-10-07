@@ -64,7 +64,7 @@
   <div id="inline" style="display:none;text-align:center;">
     <img src="https://thebeachfurniture.co.nz/newbeach-logo.png" alt="" id="logo">
     <h3 style="margin-top:20px;">Hey! Thanks For Visiting This Website</h3>
-    <p>I Hope You Like It 😊<br>Use Laptop Or Computer For Better Experience😎</p>
+    <p>I Hope You Like It 😊<br>Use Laptop Or Computer For Better Experience😎 Or Use Desktop site mode in your phone😅</p>
     <p><a href="javascript:;" onclick="jQuery.fancybox.close();" style="background-color:#333;padding:5px 10px;color:#fff;border-radius:5px;text-decoration:none;">Close</a></p>
   </div>
 
@@ -173,8 +173,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="images/Fav/1.jpg">
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
-              <p class="p-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h5 class="p-title">Killer Trio</h5>
+              <p class="p-desc">One Day This Trio Will Surround And Beat The Shit Out Of Me</p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
           </div>
@@ -184,8 +184,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="images/Fav/2.jpg">
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
-              <p class="p-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h5 class="p-title">My 2 Favourites ❤️</h5>
+              <p class="p-desc"></p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
           </div>
@@ -195,8 +195,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="images/Fav/3.jpg">
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
-              <p class="p-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h5 class="p-title">Best Solo Pic 🤩</h5>
+              <p class="p-desc"></p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
           </div>
@@ -206,8 +206,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="images/Fav/4.jpg">
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
-              <p class="p-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h5 class="p-title">Censored But Best 🙈</h5>
+              <p class="p-desc"></p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
           </div>
@@ -217,8 +217,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="images/Fav/5.jpg">
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
-              <p class="p-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h5 class="p-title">Tried To Do Something But Ended up With Cringe</h5>
+              <p class="p-desc"></p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
           </div>
@@ -228,8 +228,8 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="images/Fav/6.jpg">
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
-              <p class="p-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <h5 class="p-title">Our Most Famous Picture LOL</h5>
+              <p class="p-desc"></p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
           </div>
@@ -263,8 +263,9 @@
             </a>
         </li>
       </ul>
-      <p class="text-muted small mb-0">Copyright © Your Website 2018</p>
-      <p class="text-muted small mb-0">Designed by <a href="https://www.position2.com/" target="_balnk">Position2</p>
+      <h5>Wanna Know How I Made This Click --><a href="README.html"> README</a></h5>
+      <p class="text-muted small mb-0">Copyright © Happy Birthday Ishi 2020</p>
+      <p class="text-muted small mb-0">Designed by <a href="https://www.instagram.com/good_guy_adimtya/" target="_balnk">Good_Guy_Aditya</p>
     </div>
   </footer>
   <!--scripts-->

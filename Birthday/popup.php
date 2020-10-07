@@ -3,8 +3,8 @@
       <div class="col-lg-12">
         <div class="block-heading">
           <h2>Wish Her 😍</h2>
-          <p>Click The Button Below To Wish Her</p>
-          <p><b>Please Do Not Write Anything That Will Hurt Someone's Feelings 🙃</b></p>
+          <p>Do Not Write Anything That Will Hurt Someone's Feelings 🙃</p>
+          <p><b>This Section Will Not Work Properly In Phone Use Desktop Site Mode 🙏</b></p>
   <div class="button">
     <button><span>Click Me</span></button>
   </div>

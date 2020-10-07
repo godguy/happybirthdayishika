@@ -1,7 +1,6 @@
-<h1>You Have To Wait</h1>
-
-<h3>Don't Test This Website Please</h3>
+<head>
+<META HTTP-EQUIV="EXPIRES" CONTENT="Sat, 30 May 2020 21:00:00 GMT">
+</head>
 <?php
-sleep(5);
-header("Location: ../index.html");
+header("Location: ../");
 ?>

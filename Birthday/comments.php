@@ -9,6 +9,13 @@ echo "<div class='container'>
             echo "<div id='customers-testimonials' class='owl-carousel'>
             <div class='item'>
               <div class='shadow-effect'>
+                <img class='img-circle' src='images/daniel.jpg' alt=''>
+                <p>Happy BirthDay 🎂🎂</p>
+              </div>
+              <div class='testimonial-name'>raj modi<br>2020-05-30 15:46:21</div>
+            </div>
+            <div class='item'>
+              <div class='shadow-effect'>
                 <img class='img-circle' src='images/sarah.jpg' alt=''>
                 <p>Hey! I love you❤️ aur isse jayda meko bolne ki jarurat nahi</p>
               </div>
